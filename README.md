@@ -14,3 +14,10 @@
 		-Continuacion del curso de SSH.
 		-"Utilizacion de ssh"(50%).
 		-Realizacion de practica de creacion de claves privadas y publicas para la conexion por ssh.
+
+	10/04/2020
+		-Continuacion del curso de SSH.
+		-Completado el bloque de "Utilizacion de ssh".
+		-Completado el bloque de "Configuración de ssh"
+		-Realizacion de practica de permitir el fordwarding entre equipos y Configuracion de cliente ssh asi como la creacion de una configuracion personalizada.
+
