@@ -21,3 +21,6 @@
 		-Completado el bloque de "Configuración de ssh"
 		-Realizacion de practica de permitir el fordwarding entre equipos y Configuracion de cliente ssh asi como la creacion de una configuracion personalizada.
 
+	11/04/2020
+		-Curso completado de SSH.
+		-Examen aprobado.
