@@ -24,3 +24,8 @@
 	11/04/2020
 		-Curso completado de SSH.
 		-Examen aprobado.
+
+	13/04/2020
+		-Comenzado curso de ansible.
+		-completado bloque de introduccion.
+		-Progreso en el bloque de "Instalacion y configuración del entorno"(80%).
