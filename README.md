@@ -29,3 +29,6 @@
 		-Comenzado curso de ansible.
 		-completado bloque de introduccion.
 		-Progreso en el bloque de "Instalacion y configuración del entorno"(80%).
+
+	17/04/2020
+		-Estancado en un error desde hace dos dias.
