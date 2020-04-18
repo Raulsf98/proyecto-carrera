@@ -32,3 +32,8 @@
 
 	17/04/2020
 		-Estancado en un error desde hace dos dias.
+
+	18/04/2020
+		-Completado el bloque de instalacion y configuración de entorno.
+		-Completado el bloque primeros comandos.
+		-Comenzado bloque de Ansible playbocks.
