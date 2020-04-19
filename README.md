@@ -37,3 +37,7 @@
 		-Completado el bloque de instalacion y configuración de entorno.
 		-Completado el bloque primeros comandos.
 		-Comenzado bloque de Ansible playbocks.
+
+	19/04/2020
+		-Completado el bloque de "Ansible playbocks"
+		-Comenzado bloque de "Inventario"
