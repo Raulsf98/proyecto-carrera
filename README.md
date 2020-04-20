@@ -41,3 +41,6 @@
 	19/04/2020
 		-Completado el bloque de "Ansible playbocks"
 		-Comenzado bloque de "Inventario"
+
+	20/04/2020
+		-Completado el bloque de "Inventario"
