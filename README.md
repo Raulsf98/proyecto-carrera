@@ -44,3 +44,7 @@
 
 	20/04/2020
 		-Completado el bloque de "Inventario"
+
+	22/04/2020
+		-Completado el curso de "Ansible"
+		-Examen suspenso
