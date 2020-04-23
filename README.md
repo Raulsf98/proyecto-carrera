@@ -48,3 +48,7 @@
 	22/04/2020
 		-Completado el curso de "Ansible"
 		-Examen suspenso
+
+	23/04/2020
+		-Examen aprobado
+		-Obtenido certificado de curso de Ansible
