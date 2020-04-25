@@ -52,3 +52,7 @@
 	23/04/2020
 		-Examen aprobado
 		-Obtenido certificado de curso de Ansible
+
+	25/04/2020
+		-Comenzado curso de "Vagrant"
+		-Completado bloque de introducción
