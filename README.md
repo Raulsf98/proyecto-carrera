@@ -56,3 +56,6 @@
 	25/04/2020
 		-Comenzado curso de "Vagrant"
 		-Completado bloque de introducción
+
+	28/04/2020
+		-Comenzado bloque de "Uso de Vagrant"

@@ -1,0 +1,1 @@
+Modificacion del vagrantfile para cambiar el nombre de la maquina y el numero de cpus
