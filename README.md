@@ -59,3 +59,10 @@
 
 	28/04/2020
 		-Comenzado bloque de "Uso de Vagrant"
+
+	30/04/2020
+		-Completado bloque de "Uso de Vagrant"
+		-Completado bloque de "Uso de Vagrant avanzado"
+		-1º intento de examen suspenso.
+		-2ºIntento de examen aprobado.
+		-Completado curso de "Vagrant" 

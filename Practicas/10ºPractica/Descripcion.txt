@@ -1,0 +1,1 @@
+Modificacion del vagrantfile para añadir un entorno visual a la maquina
