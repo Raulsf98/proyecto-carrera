@@ -66,3 +66,9 @@
 		-1º intento de examen suspenso.
 		-2ºIntento de examen aprobado.
 		-Completado curso de "Vagrant" 
+	04/05/2020
+		-Comenzado curso de "Vagrant para desarrolladores"
+		-Completado bloque de "Introducción"
+		-Completado bloque de "Maquinas virtuales"
+		-Completado bloque de "Instalacion, configuracion y arranque de Vagrant"
+		(Estos bloques ya fureon vistos en el anerior curso)
