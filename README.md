@@ -72,3 +72,6 @@
 		-Completado bloque de "Maquinas virtuales"
 		-Completado bloque de "Instalacion, configuracion y arranque de Vagrant"
 		(Estos bloques ya fureon vistos en el anerior curso)
+	05/05/2020
+		-Completado bloque de "Vagrant vista de pajaro"
+		(Salvo dos puntos especificos vuelve a ser un repaso del anterior curso)
