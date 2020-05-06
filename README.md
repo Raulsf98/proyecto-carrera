@@ -75,3 +75,7 @@
 	05/05/2020
 		-Completado bloque de "Vagrant vista de pajaro"
 		(Salvo dos puntos especificos vuelve a ser un repaso del anterior curso)
+	06/05/2020
+		-Completado curso de "Vagrant para desarrolladores"
+		-Examen aprobado 
+		-Diploma obtenido
