@@ -66,16 +66,25 @@
 		-1º intento de examen suspenso.
 		-2ºIntento de examen aprobado.
 		-Completado curso de "Vagrant" 
+
 	04/05/2020
 		-Comenzado curso de "Vagrant para desarrolladores"
 		-Completado bloque de "Introducción"
 		-Completado bloque de "Maquinas virtuales"
 		-Completado bloque de "Instalacion, configuracion y arranque de Vagrant"
 		(Estos bloques ya fureon vistos en el anerior curso)
+
 	05/05/2020
 		-Completado bloque de "Vagrant vista de pajaro"
 		(Salvo dos puntos especificos vuelve a ser un repaso del anterior curso)
+
 	06/05/2020
 		-Completado curso de "Vagrant para desarrolladores"
 		-Examen aprobado 
 		-Diploma obtenido
+
+	10/05/2020
+		-Comenzado curso de "Terraform"
+		-Completado bloque de "Introducción"
+		-Completado bloque de "Providers"
+		-Completado bloque de "Desarrollo de una plantilla básica de Terraform"
