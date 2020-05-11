@@ -88,3 +88,17 @@
 		-Completado bloque de "Introducción"
 		-Completado bloque de "Providers"
 		-Completado bloque de "Desarrollo de una plantilla básica de Terraform"
+
+	11/05/2020
+		-Completado bloque de "Importar recursos existentes"
+		-Completado bloque de "Desarrollo de una plantilla compleja de terraform"
+		-Completado bloque de "Conceptos avanzados"
+		-Completado bloque de "Otros providers"
+		-Completado bloque de "Packer"
+		-1º intento de examen suspenso.
+		-2ºIntento de examen aprobado.
+		-Completado curso de "Terraform"
+		-Diploma obtenido
+
+	
+	Finalizada carrera de "Especialista en Automatización DevOps"
